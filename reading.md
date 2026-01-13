@@ -1,5 +1,3 @@
-# Under Construction
-
-## Recommendations
+# Recommendations
 
 Stay tuned for updates!

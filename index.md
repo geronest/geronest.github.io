@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![Profile photo](shson_profile.jpg)
+<img src="shson_profile.jpg" alt="Profile photo" style="width:50%;" />
 
 Hello! I am Seongho (/sung-ho/). 
 I am in my final year of doctoral study in Computer Science at University College London.

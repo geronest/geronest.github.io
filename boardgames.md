@@ -1,10 +1,8 @@
-# Under Construction
-
-## Boardgames
+# Boardgames
 
 I enjoy many different kinds of games, ranging from digital games to boardgames.
 
-## Boardgame Design
+# Boardgame Design
 
 One of my important identities is boardgame designer.
 I have not made any money (yet) from designing games, nor am I diligently working on designs, but I am still serious about it!

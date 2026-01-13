@@ -1,9 +1,7 @@
-# Under Construction
-
-## Cooking
+# Cooking
 
 I cook for fun! I even enjoy doing the dishes.
 
-## Brewing
+# Brewing
 
 I also enjoy brewing alcohol. I had a great fun brewing Korean rice wines (막걸리, /makgeoli/).
