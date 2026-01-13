@@ -1,4 +1,3 @@
-# Boardgames
 
 I enjoy many different kinds of games, ranging from digital games to boardgames.
 

@@ -1,4 +1,3 @@
-# Cooking
 
 I cook for fun! I even enjoy doing the dishes.
 
