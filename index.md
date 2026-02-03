@@ -14,12 +14,12 @@ email: `geronest at gmail dot com`
 - Generative Models: LLMs, diffusion models, multimodal models
 - Multi-agent systems: Game Theory, networked agents, emergent behaviour
 
-Check my papers [here](papers.md)!
+Check my papers [here](1_papers.md)!
 
 ## Non-Research Interests
-- [Boardgame Design](boardgames.md)
-- [Cooking + Brewing](cooking.md)
-- [Reading](reading.md)
+- [Boardgame Design](2_boardgames.md)
+- [Cooking + Brewing](3_cooking.md)
+- [Reading](4_reading.md)
 - Birds
 
 ## Links

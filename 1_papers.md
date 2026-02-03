@@ -1,5 +1,5 @@
 ---
-title: 1. Papers
+title: Papers
 ---
 
 ## Selected List of Papers

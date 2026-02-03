@@ -1,5 +1,5 @@
 ---
-title: 4. Reading
+title: Reading
 ---
 
 Stay tuned for updates!

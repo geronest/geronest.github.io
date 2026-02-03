@@ -1,5 +1,5 @@
 ---
-title: 3. Cooking + Brewing
+title: Cooking + Brewing
 ---
 
 ## Cooking
