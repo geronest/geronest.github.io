@@ -13,6 +13,7 @@ email: `geronest at gmail dot com`
 - Reinforcement learning: RLHF, Robustness, Multi-Objective Learning, Reasoning
 - Generative Models: LLMs, diffusion models, multimodal models
 - Multi-agent systems: Game Theory, networked agents, emergent behaviour
+
 Check my papers [here](papers.md)!
 
 ## Non-Research Interests
