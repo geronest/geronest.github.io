@@ -30,7 +30,7 @@ title: Papers
 
     <tr>
         <td style="width:30%">
-            <img src="images/paper2_thumb.png" alt="Paper 2 thumbnail">
+            <img src="images/summary_bab.png" alt="Summary of BAB paper">
         </td>
         <td>
             <b>Creating pro-level AI for a real-time fighting game using deep reinforcement learning</b><br>
